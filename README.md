@@ -1,6 +1,8 @@
 # SamrtLocker
  
-Grade 11 final project lol!
+Grade 11 final project lol!/
+It is an alternative solution to the traditional stupid locks in every school!/
+The lock can be openned with both fingerprint or a 6-digit code./
 
 Materials used:
  - Arduino Uno
